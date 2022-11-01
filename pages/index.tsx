@@ -40,7 +40,7 @@ export default function Home() {
                 <p>Add mæ (me) </p>
                 <Link href="https://www.snapchat.com/add/isakschultz" className="pt-4">
                     {/* outline the react-icon */}
-                    <div className="bg-yellow-200 rounded-full p-8 outline">
+                    <div className="bg-yellow-200 rounded-2xl p-8 ">
                         <BsSnapchat className="text-black" size={70}/>
                     </div>
                 </Link>
