@@ -35,7 +35,7 @@ export default function Home() {
                 />
                 <p className="font-extralight text-4xl"> my name is <span className="font-bold ">isak..</span></p>
             </div>
-            <p className="font-extralight text-xl relative left-20 pt-4">tell me something i know nothing about</p>
+            <p className="font-extralight text-xl relative md:left-20 left-0 pt-4">tell me something i know nothing about</p>
             <div className="flex flex-col items-center pt-12 text-2xl">
                 <p>Add mæ (me) </p>
                 <Link href="https://www.snapchat.com/add/isakschultz" className="pt-4">
